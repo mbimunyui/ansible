@@ -1,0 +1,22 @@
+---
+- host: all
+  become: true
+  tasks:
+    - name: check uptime of all servers
+      register: uptimeoutput
+      command: "uptime"
+    
+    - name: check disk space
+      register: diskoutput
+      command: "df -h"
+    
+    - name: running processes
+      register: running_process
+      command: "ps -aux"
+       
+    - debug:
+        var: diskoutput.stdout_lines
+    - debug:
+        var: running_process.stdout_lines
+    - debug:
+        var: uptimeoutput.stdout_lines
