@@ -1,0 +1,30 @@
+---
+- name: using file module
+  hosts: all
+  become: yes
+  tasks:
+     - name: install ntp on RedHat family
+       yum:
+         name: ntp
+         state: present
+       when: ansible_os_family == "RedHat"
+
+     - name: install ntp on debian family
+       apt:
+         name: ntp
+         state: present
+       when: ansible_os_family == "Debian"
+
+     - name: start and enable ntp
+       service:
+            name: ntpd
+            state: started
+            enabled: yes
+      
+     - name: creating a file and giving it a content from ansible
+       copy:
+         content: "This is {{ansible_distribution}} is managed by Ansible"
+         dest: /etc/motd
+           
+
+ 

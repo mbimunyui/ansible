@@ -1,0 +1,10 @@
+---
+- name: fetch file 
+  hosts: webserver
+  become: yes
+  tasks:
+    - name: get ntp.conf file
+      fetch:
+         src: /etc/ntp.conf
+         dest: ./ntp.conf
+         flat: yes

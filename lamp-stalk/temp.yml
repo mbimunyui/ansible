@@ -1,0 +1,17 @@
+---
+- name: overwrite ntp.conf file
+  hosts: all
+  become: yes
+  tasks: 
+     - name: overwrite centos ntp.conf files
+       template:
+           src: templates/ntp_centos.conf.j2
+           dest: /etc/ntp.conf
+       when: ansible_os_family == "RedHat"
+     - name: restart NTP
+       service:
+            name: ntpd
+            state: restarted
+            enabled: yes
+       when: ansible_os_family == "RedHat"
+

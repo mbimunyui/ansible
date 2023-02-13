@@ -1,0 +1,324 @@
+2023-01-30 20:29:23,983 p=16205 u=vagrant n=ansible | db2 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db2: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 20:29:24,096 p=16205 u=vagrant n=ansible | db1 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db1: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 20:29:24,168 p=16205 u=vagrant n=ansible | web | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname web: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:09:36,709 p=16450 u=vagrant n=ansible | web | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname web: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:09:36,771 p=16450 u=vagrant n=ansible | db1 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db1: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:09:36,789 p=16450 u=vagrant n=ansible | db2 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db2: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:17:11,044 p=16513 u=vagrant n=ansible | db1 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db1: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:17:11,048 p=16513 u=vagrant n=ansible | web | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname web: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:17:11,086 p=16513 u=vagrant n=ansible | db2 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db2: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:32:41,473 p=16544 u=vagrant n=ansible | db1 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db1: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:32:41,482 p=16544 u=vagrant n=ansible | web | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname web: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:32:41,505 p=16544 u=vagrant n=ansible | db2 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db2: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:33:13,918 p=16565 u=vagrant n=ansible | db1 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db1: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:38:21,595 p=16585 u=vagrant n=ansible | db1 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db1: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:38:21,651 p=16585 u=vagrant n=ansible | db2 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db2: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:38:21,652 p=16585 u=vagrant n=ansible | web | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname web: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:41:45,957 p=16645 u=vagrant n=ansible | web | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname web: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:41:46,006 p=16645 u=vagrant n=ansible | database1 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname database1: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:41:46,016 p=16645 u=vagrant n=ansible | db2 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db2: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:45:43,978 p=16670 u=vagrant n=ansible | web | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname web: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:45:43,995 p=16670 u=vagrant n=ansible | database1 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname database1: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:45:44,044 p=16670 u=vagrant n=ansible | db2 | UNREACHABLE! => {
+    "changed": false, 
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname db2: Name or service not known", 
+    "unreachable": true
+}
+2023-01-30 23:45:46,108 p=16670 u=vagrant n=ansible | 192.168.56.85 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-01-30 23:45:46,318 p=16670 u=vagrant n=ansible | 192.168.56.70 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-01-30 23:45:46,347 p=16670 u=vagrant n=ansible | 192.168.56.75 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-01-30 23:47:54,690 p=16739 u=vagrant n=ansible | 192.168.56.85 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-01-30 23:47:54,740 p=16739 u=vagrant n=ansible | 192.168.56.75 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-01-30 23:47:54,746 p=16739 u=vagrant n=ansible | 192.168.56.70 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-01-30 23:51:41,392 p=16797 u=vagrant n=ansible | 192.168.56.75 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-01-30 23:51:41,396 p=16797 u=vagrant n=ansible | 192.168.56.85 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-01-30 23:51:41,407 p=16797 u=vagrant n=ansible | 192.168.56.70 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-02-13 17:32:55,558 p=2128 u=vagrant n=ansible | 192.168.56.85 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-02-13 17:32:55,567 p=2128 u=vagrant n=ansible | 192.168.56.70 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-02-13 17:32:55,585 p=2128 u=vagrant n=ansible | 192.168.56.75 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    }, 
+    "changed": false, 
+    "ping": "pong"
+}
+2023-02-13 17:35:11,635 p=2208 u=vagrant n=ansible | playbook: file-module
+2023-02-13 17:36:33,381 p=2217 u=vagrant n=ansible | PLAY [using file module] ******************************************************************************************************
+2023-02-13 17:36:33,414 p=2217 u=vagrant n=ansible | TASK [Gathering Facts] ********************************************************************************************************
+2023-02-13 17:36:36,692 p=2217 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 17:36:36,768 p=2217 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 17:36:36,905 p=2217 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:36:36,963 p=2217 u=vagrant n=ansible | TASK [install ntp on RedHat family] *******************************************************************************************
+2023-02-13 17:36:39,094 p=2217 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 17:36:39,124 p=2217 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 17:36:39,150 p=2217 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:36:39,200 p=2217 u=vagrant n=ansible | TASK [install ntp on debian family] *******************************************************************************************
+2023-02-13 17:36:39,327 p=2217 u=vagrant n=ansible | skipping: [192.168.56.75]
+2023-02-13 17:36:39,350 p=2217 u=vagrant n=ansible | skipping: [192.168.56.85]
+2023-02-13 17:36:39,439 p=2217 u=vagrant n=ansible | skipping: [192.168.56.70]
+2023-02-13 17:36:39,490 p=2217 u=vagrant n=ansible | TASK [start and enable ntp] ***************************************************************************************************
+2023-02-13 17:36:41,779 p=2217 u=vagrant n=ansible | fatal: [192.168.56.85]: FAILED! => {"changed": false, "msg": "Unsupported parameters for (systemd) module: enable Supported parameters include: daemon_reexec, daemon_reload, enabled, force, masked, name, no_block, scope, state, user"}
+2023-02-13 17:36:41,803 p=2217 u=vagrant n=ansible | fatal: [192.168.56.75]: FAILED! => {"changed": false, "msg": "Unsupported parameters for (systemd) module: enable Supported parameters include: daemon_reexec, daemon_reload, enabled, force, masked, name, no_block, scope, state, user"}
+2023-02-13 17:36:41,828 p=2217 u=vagrant n=ansible | fatal: [192.168.56.70]: FAILED! => {"changed": false, "msg": "Unsupported parameters for (systemd) module: enable Supported parameters include: daemon_reexec, daemon_reload, enabled, force, masked, name, no_block, scope, state, user"}
+2023-02-13 17:36:41,831 p=2217 u=vagrant n=ansible | PLAY RECAP ********************************************************************************************************************
+2023-02-13 17:36:41,832 p=2217 u=vagrant n=ansible | 192.168.56.70              : ok=2    changed=0    unreachable=0    failed=1    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:36:41,832 p=2217 u=vagrant n=ansible | 192.168.56.75              : ok=2    changed=0    unreachable=0    failed=1    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:36:41,833 p=2217 u=vagrant n=ansible | 192.168.56.85              : ok=2    changed=0    unreachable=0    failed=1    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:37:44,990 p=2331 u=vagrant n=ansible | PLAY [using file module] ******************************************************************************************************
+2023-02-13 17:37:45,026 p=2331 u=vagrant n=ansible | TASK [Gathering Facts] ********************************************************************************************************
+2023-02-13 17:37:48,325 p=2331 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 17:37:48,509 p=2331 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:37:48,642 p=2331 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 17:37:48,693 p=2331 u=vagrant n=ansible | TASK [install ntp on RedHat family] *******************************************************************************************
+2023-02-13 17:37:50,743 p=2331 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 17:37:50,778 p=2331 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 17:37:50,821 p=2331 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:37:50,874 p=2331 u=vagrant n=ansible | TASK [install ntp on debian family] *******************************************************************************************
+2023-02-13 17:37:51,008 p=2331 u=vagrant n=ansible | skipping: [192.168.56.75]
+2023-02-13 17:37:51,026 p=2331 u=vagrant n=ansible | skipping: [192.168.56.85]
+2023-02-13 17:37:51,089 p=2331 u=vagrant n=ansible | skipping: [192.168.56.70]
+2023-02-13 17:37:51,134 p=2331 u=vagrant n=ansible | TASK [start and enable ntp] ***************************************************************************************************
+2023-02-13 17:37:53,315 p=2331 u=vagrant n=ansible | fatal: [192.168.56.85]: FAILED! => {"changed": false, "msg": "Could not find the requested service ntp: host"}
+2023-02-13 17:37:53,333 p=2331 u=vagrant n=ansible | fatal: [192.168.56.75]: FAILED! => {"changed": false, "msg": "Could not find the requested service ntp: host"}
+2023-02-13 17:37:53,353 p=2331 u=vagrant n=ansible | fatal: [192.168.56.70]: FAILED! => {"changed": false, "msg": "Could not find the requested service ntp: host"}
+2023-02-13 17:37:53,356 p=2331 u=vagrant n=ansible | PLAY RECAP ********************************************************************************************************************
+2023-02-13 17:37:53,357 p=2331 u=vagrant n=ansible | 192.168.56.70              : ok=2    changed=0    unreachable=0    failed=1    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:37:53,358 p=2331 u=vagrant n=ansible | 192.168.56.75              : ok=2    changed=0    unreachable=0    failed=1    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:37:53,358 p=2331 u=vagrant n=ansible | 192.168.56.85              : ok=2    changed=0    unreachable=0    failed=1    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:38:55,799 p=2445 u=vagrant n=ansible | PLAY [using file module] ******************************************************************************************************
+2023-02-13 17:38:55,832 p=2445 u=vagrant n=ansible | TASK [Gathering Facts] ********************************************************************************************************
+2023-02-13 17:38:59,050 p=2445 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 17:38:59,128 p=2445 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 17:38:59,172 p=2445 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:38:59,221 p=2445 u=vagrant n=ansible | TASK [install ntp on RedHat family] *******************************************************************************************
+2023-02-13 17:39:01,334 p=2445 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 17:39:01,349 p=2445 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 17:39:01,390 p=2445 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:39:01,436 p=2445 u=vagrant n=ansible | TASK [install ntp on debian family] *******************************************************************************************
+2023-02-13 17:39:01,559 p=2445 u=vagrant n=ansible | skipping: [192.168.56.75]
+2023-02-13 17:39:01,604 p=2445 u=vagrant n=ansible | skipping: [192.168.56.85]
+2023-02-13 17:39:01,643 p=2445 u=vagrant n=ansible | skipping: [192.168.56.70]
+2023-02-13 17:39:01,693 p=2445 u=vagrant n=ansible | TASK [start and enable ntp] ***************************************************************************************************
+2023-02-13 17:39:03,825 p=2445 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 17:39:03,847 p=2445 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 17:39:03,855 p=2445 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:39:03,903 p=2445 u=vagrant n=ansible | TASK [creating a file and giving it a content from ansible] *******************************************************************
+2023-02-13 17:39:06,484 p=2445 u=vagrant n=ansible | changed: [192.168.56.75]
+2023-02-13 17:39:06,505 p=2445 u=vagrant n=ansible | changed: [192.168.56.85]
+2023-02-13 17:39:06,512 p=2445 u=vagrant n=ansible | changed: [192.168.56.70]
+2023-02-13 17:39:06,521 p=2445 u=vagrant n=ansible | PLAY RECAP ********************************************************************************************************************
+2023-02-13 17:39:06,521 p=2445 u=vagrant n=ansible | 192.168.56.70              : ok=4    changed=1    unreachable=0    failed=0    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:39:06,522 p=2445 u=vagrant n=ansible | 192.168.56.75              : ok=4    changed=1    unreachable=0    failed=0    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:39:06,522 p=2445 u=vagrant n=ansible | 192.168.56.85              : ok=4    changed=1    unreachable=0    failed=0    skipped=1    rescued=0    ignored=0   
+2023-02-13 17:51:27,106 p=2662 u=vagrant n=ansible | ERROR! the playbook: fectch-module could not be found
+2023-02-13 17:52:02,317 p=2669 u=vagrant n=ansible | ERROR! couldn't resolve module/action 'fecth'. This often indicates a misspelling, missing collection, or incorrect module path.
+
+The error appears to be in '/home/vagrant/vprofile/exercise4/fetch-module': line 6, column 7, but may
+be elsewhere in the file depending on the exact syntax problem.
+
+The offending line appears to be:
+
+  tasks:
+    - name: get ntp.conf file
+      ^ here
+
+2023-02-13 17:52:39,261 p=2678 u=vagrant n=ansible | playbook: fetch-module
+2023-02-13 17:52:49,178 p=2686 u=vagrant n=ansible | PLAY [fetch file] *************************************************************************************************************
+2023-02-13 17:52:49,217 p=2686 u=vagrant n=ansible | TASK [Gathering Facts] ********************************************************************************************************
+2023-02-13 17:52:52,569 p=2686 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:52:52,625 p=2686 u=vagrant n=ansible | TASK [get ntp.conf file] ******************************************************************************************************
+2023-02-13 17:52:54,137 p=2686 u=vagrant n=ansible | changed: [192.168.56.70]
+2023-02-13 17:52:54,141 p=2686 u=vagrant n=ansible | PLAY RECAP ********************************************************************************************************************
+2023-02-13 17:52:54,142 p=2686 u=vagrant n=ansible | 192.168.56.70              : ok=2    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+2023-02-13 17:58:35,590 p=2738 u=vagrant n=ansible | PLAY [fetch file] *************************************************************************************************************
+2023-02-13 17:58:35,682 p=2738 u=vagrant n=ansible | TASK [Gathering Facts] ********************************************************************************************************
+2023-02-13 17:58:39,090 p=2738 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 17:58:39,146 p=2738 u=vagrant n=ansible | TASK [get ntp.conf file] ******************************************************************************************************
+2023-02-13 17:58:40,659 p=2738 u=vagrant n=ansible | changed: [192.168.56.70]
+2023-02-13 17:58:40,663 p=2738 u=vagrant n=ansible | PLAY RECAP ********************************************************************************************************************
+2023-02-13 17:58:40,663 p=2738 u=vagrant n=ansible | 192.168.56.70              : ok=2    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+2023-02-13 18:33:31,913 p=2918 u=vagrant n=ansible | playbook: temp.yml
+2023-02-13 18:35:29,021 p=2936 u=vagrant n=ansible | PLAY [overwrite ntp.conf file] ************************************************************************************************
+2023-02-13 18:35:29,062 p=2936 u=vagrant n=ansible | TASK [Gathering Facts] ********************************************************************************************************
+2023-02-13 18:35:33,048 p=2936 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 18:35:33,196 p=2936 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 18:35:33,301 p=2936 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 18:35:33,363 p=2936 u=vagrant n=ansible | TASK [overwrite centos ntp.conf files] ****************************************************************************************
+2023-02-13 18:35:36,666 p=2936 u=vagrant n=ansible | changed: [192.168.56.70]
+2023-02-13 18:35:36,682 p=2936 u=vagrant n=ansible | changed: [192.168.56.85]
+2023-02-13 18:35:36,726 p=2936 u=vagrant n=ansible | changed: [192.168.56.75]
+2023-02-13 18:35:36,793 p=2936 u=vagrant n=ansible | TASK [restart NTP] ************************************************************************************************************
+2023-02-13 18:35:39,628 p=2936 u=vagrant n=ansible | fatal: [192.168.56.75]: FAILED! => {"changed": false, "msg": "value of state must be one of: reloaded, restarted, started, stopped, got: restart"}
+2023-02-13 18:35:39,675 p=2936 u=vagrant n=ansible | fatal: [192.168.56.85]: FAILED! => {"changed": false, "msg": "value of state must be one of: reloaded, restarted, started, stopped, got: restart"}
+2023-02-13 18:35:39,683 p=2936 u=vagrant n=ansible | fatal: [192.168.56.70]: FAILED! => {"changed": false, "msg": "value of state must be one of: reloaded, restarted, started, stopped, got: restart"}
+2023-02-13 18:35:39,689 p=2936 u=vagrant n=ansible | PLAY RECAP ********************************************************************************************************************
+2023-02-13 18:35:39,690 p=2936 u=vagrant n=ansible | 192.168.56.70              : ok=2    changed=1    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+2023-02-13 18:35:39,691 p=2936 u=vagrant n=ansible | 192.168.56.75              : ok=2    changed=1    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+2023-02-13 18:35:39,691 p=2936 u=vagrant n=ansible | 192.168.56.85              : ok=2    changed=1    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+2023-02-13 18:37:23,990 p=3067 u=vagrant n=ansible | PLAY [overwrite ntp.conf file] ************************************************************************************************
+2023-02-13 18:37:24,024 p=3067 u=vagrant n=ansible | TASK [Gathering Facts] ********************************************************************************************************
+2023-02-13 18:37:27,567 p=3067 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 18:37:27,618 p=3067 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 18:37:27,664 p=3067 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 18:37:27,712 p=3067 u=vagrant n=ansible | TASK [overwrite centos ntp.conf files] ****************************************************************************************
+2023-02-13 18:37:30,369 p=3067 u=vagrant n=ansible | ok: [192.168.56.85]
+2023-02-13 18:37:30,371 p=3067 u=vagrant n=ansible | ok: [192.168.56.70]
+2023-02-13 18:37:30,379 p=3067 u=vagrant n=ansible | ok: [192.168.56.75]
+2023-02-13 18:37:30,429 p=3067 u=vagrant n=ansible | TASK [restart NTP] ************************************************************************************************************
+2023-02-13 18:37:33,021 p=3067 u=vagrant n=ansible | changed: [192.168.56.85]
+2023-02-13 18:37:33,048 p=3067 u=vagrant n=ansible | changed: [192.168.56.75]
+2023-02-13 18:37:33,099 p=3067 u=vagrant n=ansible | changed: [192.168.56.70]
+2023-02-13 18:37:33,106 p=3067 u=vagrant n=ansible | PLAY RECAP ********************************************************************************************************************
+2023-02-13 18:37:33,107 p=3067 u=vagrant n=ansible | 192.168.56.70              : ok=3    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+2023-02-13 18:37:33,107 p=3067 u=vagrant n=ansible | 192.168.56.75              : ok=3    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+2023-02-13 18:37:33,108 p=3067 u=vagrant n=ansible | 192.168.56.85              : ok=3    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
