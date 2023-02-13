@@ -1,7 +1,7 @@
 ---
 - name: Setting up LAMP Website
   user: root
-  hosts: lambservers
+  hosts: lamp-servers
   become: yes
   vars:
     ansible_hostname: 0.0.0.0
